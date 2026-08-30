@@ -1,0 +1,981 @@
+{
+  "schema": "cnam-formations-backup/2",
+  "exported": "2026-08-29T18:06:05.728Z",
+  "annee": "2026 / 2027",
+  "notes": {},
+  "evalScores": {
+    "M2G2␟COLOMBERO Laurent␟0": 4,
+    "M2G2␟COLOMBERO Laurent␟1": 4,
+    "M2G2␟COLOMBERO Laurent␟2": 3,
+    "M2G2␟COLOMBERO Laurent␟3": 3,
+    "M2G2␟COLOMBERO Laurent␟4": 4,
+    "M2G2␟COLOMBERO Laurent␟date": "2026-08-22"
+  },
+  "documents": {},
+  "roadmap": {
+    "M1G1": {
+      "phases": [
+        {
+          "label": "Semestre 1",
+          "s": "2026-10-05",
+          "e": "2026-12-20",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Semestre 2",
+          "s": "2027-01-05",
+          "e": "2027-04-30",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Examens · rattrapages",
+          "s": "2027-05-04",
+          "e": "2027-06-26",
+          "color": "#8E1B3D"
+        }
+      ],
+      "miles": [
+        {
+          "label": "Rentrée",
+          "d": "2026-10-05",
+          "below": false
+        },
+        {
+          "label": "Sujets mémoire validés",
+          "d": "2026-11-16",
+          "below": true
+        },
+        {
+          "label": "Éval. mi-parcours",
+          "d": "2026-12-14",
+          "below": false
+        },
+        {
+          "label": "Dépôt mémoire",
+          "d": "2027-06-08",
+          "below": true
+        },
+        {
+          "label": "Jury · soutenances",
+          "d": "2027-07-06",
+          "below": false
+        }
+      ]
+    },
+    "INPHB": {
+      "phases": [
+        {
+          "label": "Semestre 1",
+          "s": "2026-10-05",
+          "e": "2026-12-20",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Semestre 2",
+          "s": "2027-01-05",
+          "e": "2027-04-30",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Examens · rattrapages",
+          "s": "2027-05-04",
+          "e": "2027-06-26",
+          "color": "#8E1B3D"
+        }
+      ],
+      "miles": [
+        {
+          "label": "Rentrée",
+          "d": "2026-10-05",
+          "below": false
+        },
+        {
+          "label": "Sujets mémoire validés",
+          "d": "2026-11-16",
+          "below": true
+        },
+        {
+          "label": "Éval. mi-parcours",
+          "d": "2026-12-14",
+          "below": false
+        },
+        {
+          "label": "Dépôt mémoire",
+          "d": "2027-06-08",
+          "below": true
+        },
+        {
+          "label": "Jury · soutenances",
+          "d": "2027-07-06",
+          "below": false
+        }
+      ]
+    },
+    "M2G2": {
+      "phases": [
+        {
+          "label": "Semestre 1",
+          "s": "2026-10-05",
+          "e": "2026-12-20",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Semestre 2",
+          "s": "2027-01-05",
+          "e": "2027-04-30",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Examens · rattrapages",
+          "s": "2027-05-04",
+          "e": "2027-06-26",
+          "color": "#8E1B3D"
+        }
+      ],
+      "miles": [
+        {
+          "label": "Rentrée",
+          "d": "2026-10-05",
+          "below": false
+        },
+        {
+          "label": "Sujets mémoire validés",
+          "d": "2026-11-16",
+          "below": true
+        },
+        {
+          "label": "Éval. mi-parcours",
+          "d": "2026-12-14",
+          "below": false
+        },
+        {
+          "label": "Dépôt mémoire",
+          "d": "2027-06-08",
+          "below": true
+        },
+        {
+          "label": "Jury · soutenances",
+          "d": "2027-07-06",
+          "below": false
+        }
+      ]
+    },
+    "LIC": {
+      "phases": [
+        {
+          "label": "Semestre 1",
+          "s": "2026-10-05",
+          "e": "2026-12-20",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Semestre 2",
+          "s": "2027-01-05",
+          "e": "2027-04-30",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Examens · rattrapages",
+          "s": "2027-05-04",
+          "e": "2027-06-26",
+          "color": "#8E1B3D"
+        }
+      ],
+      "miles": [
+        {
+          "label": "Rentrée",
+          "d": "2026-10-05",
+          "below": false
+        },
+        {
+          "label": "Sujets mémoire validés",
+          "d": "2026-11-16",
+          "below": true
+        },
+        {
+          "label": "Éval. mi-parcours",
+          "d": "2026-12-14",
+          "below": false
+        },
+        {
+          "label": "Dépôt mémoire",
+          "d": "2027-06-08",
+          "below": true
+        },
+        {
+          "label": "Jury · soutenances",
+          "d": "2027-07-06",
+          "below": false
+        }
+      ]
+    },
+    "M2G1": {
+      "phases": [
+        {
+          "label": "S1",
+          "s": "2026-09-07",
+          "e": "2026-09-11",
+          "color": "#C8102E"
+        },
+        {
+          "label": "S2",
+          "s": "2026-10-05",
+          "e": "2026-10-09",
+          "color": "#8E1B3D"
+        },
+        {
+          "label": "S3",
+          "s": "2026-11-02",
+          "e": "2026-11-06",
+          "color": "#8a929c"
+        },
+        {
+          "label": "S4",
+          "s": "2026-11-23",
+          "e": "2026-11-27",
+          "color": "#1F4E79"
+        },
+        {
+          "label": "S5",
+          "s": "2026-12-07",
+          "e": "2026-12-11",
+          "color": "#B5651A"
+        },
+        {
+          "label": "S6",
+          "s": "2027-01-18",
+          "e": "2027-01-22",
+          "color": "#C8102E"
+        },
+        {
+          "label": "S7",
+          "s": "2027-02-08",
+          "e": "2027-02-12",
+          "color": "#8E1B3D"
+        },
+        {
+          "label": "S8",
+          "s": "2027-03-08",
+          "e": "2027-03-19",
+          "color": "#8a929c"
+        },
+        {
+          "label": "S9",
+          "s": "2027-04-12",
+          "e": "2027-04-16",
+          "color": "#2E7D6B"
+        },
+        {
+          "label": "S10",
+          "s": "2027-05-10",
+          "e": "2027-05-21",
+          "color": "#1F4E79"
+        },
+        {
+          "label": "S11",
+          "s": "2027-06-07",
+          "e": "2027-06-11",
+          "color": "#B5651A"
+        },
+        {
+          "label": "S12",
+          "s": "2027-09-06",
+          "e": "2027-09-08",
+          "color": "#C8102E"
+        }
+      ],
+      "miles": [
+        {
+          "label": "Rentrée",
+          "d": "2026-09-07",
+          "below": false
+        },
+        {
+          "label": "Sujets mémoire validés",
+          "d": "2026-11-27",
+          "below": true
+        },
+        {
+          "label": "Éval. mi-parcours",
+          "d": "2026-12-11",
+          "below": false
+        },
+        {
+          "label": "Dépôt mémoire",
+          "d": "2027-07-16",
+          "below": true
+        },
+        {
+          "label": "Jury · soutenances",
+          "d": "2027-08-30",
+          "below": false
+        }
+      ]
+    },
+    "TEBDP": {
+      "phases": [
+        {
+          "label": "Semestre 1",
+          "s": "2026-10-05",
+          "e": "2026-12-20",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Semestre 2",
+          "s": "2027-01-05",
+          "e": "2027-04-30",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Examens · rattrapages",
+          "s": "2027-05-04",
+          "e": "2027-06-26",
+          "color": "#8E1B3D"
+        }
+      ],
+      "miles": [
+        {
+          "label": "Rentrée",
+          "d": "2026-10-05",
+          "below": false
+        },
+        {
+          "label": "Sujets mémoire validés",
+          "d": "2026-11-16",
+          "below": true
+        },
+        {
+          "label": "Éval. mi-parcours",
+          "d": "2026-12-14",
+          "below": false
+        },
+        {
+          "label": "Dépôt mémoire",
+          "d": "2027-06-08",
+          "below": true
+        },
+        {
+          "label": "Jury · soutenances",
+          "d": "2027-07-06",
+          "below": false
+        }
+      ]
+    },
+    "TPBIM": {
+      "phases": [
+        {
+          "label": "S1",
+          "s": "2026-10-19",
+          "e": "2026-11-13",
+          "color": "#C8102E"
+        },
+        {
+          "label": "S2",
+          "s": "2026-12-07",
+          "e": "2026-12-18",
+          "color": "#8E1B3D"
+        },
+        {
+          "label": "S3",
+          "s": "2027-01-18",
+          "e": "2027-02-05",
+          "color": "#8a929c"
+        },
+        {
+          "label": "S4",
+          "s": "2027-03-08",
+          "e": "2027-03-19",
+          "color": "#2E7D6B"
+        },
+        {
+          "label": "S5",
+          "s": "2027-04-12",
+          "e": "2027-04-23",
+          "color": "#1F4E79"
+        },
+        {
+          "label": "S6",
+          "s": "2027-05-18",
+          "e": "2027-06-09",
+          "color": "#B5651A"
+        }
+      ],
+      "miles": [
+        {
+          "label": "Rentrée",
+          "d": "2026-10-19",
+          "below": false
+        },
+        {
+          "label": "Éval. mi-parcours",
+          "d": "2027-02-01",
+          "below": true
+        },
+        {
+          "label": "Éval. fin-parcours",
+          "d": "2027-05-18",
+          "below": true
+        },
+        {
+          "label": "Examen",
+          "d": "2027-06-07",
+          "below": false
+        }
+      ]
+    },
+    "EACM1": {
+      "phases": [
+        {
+          "label": "Semestre 1",
+          "s": "2026-10-05",
+          "e": "2026-12-20",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Semestre 2",
+          "s": "2027-01-05",
+          "e": "2027-04-30",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Examens · rattrapages",
+          "s": "2027-05-04",
+          "e": "2027-06-26",
+          "color": "#8E1B3D"
+        }
+      ],
+      "miles": [
+        {
+          "label": "Rentrée",
+          "d": "2026-10-05",
+          "below": false
+        },
+        {
+          "label": "Sujets mémoire validés",
+          "d": "2026-11-16",
+          "below": true
+        },
+        {
+          "label": "Éval. mi-parcours",
+          "d": "2026-12-14",
+          "below": false
+        },
+        {
+          "label": "Dépôt mémoire",
+          "d": "2027-06-08",
+          "below": true
+        },
+        {
+          "label": "Jury · soutenances",
+          "d": "2027-07-06",
+          "below": false
+        }
+      ]
+    },
+    "EACM2": {
+      "phases": [
+        {
+          "label": "Semestre 1",
+          "s": "2026-10-05",
+          "e": "2026-12-20",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Semestre 2",
+          "s": "2027-01-05",
+          "e": "2027-04-30",
+          "color": "#C8102E"
+        },
+        {
+          "label": "Examens · rattrapages",
+          "s": "2027-05-04",
+          "e": "2027-06-26",
+          "color": "#8E1B3D"
+        }
+      ],
+      "miles": [
+        {
+          "label": "Rentrée",
+          "d": "2026-10-05",
+          "below": false
+        },
+        {
+          "label": "Sujets mémoire validés",
+          "d": "2026-11-16",
+          "below": true
+        },
+        {
+          "label": "Éval. mi-parcours",
+          "d": "2026-12-14",
+          "below": false
+        },
+        {
+          "label": "Dépôt mémoire",
+          "d": "2027-06-08",
+          "below": true
+        },
+        {
+          "label": "Jury · soutenances",
+          "d": "2027-07-06",
+          "below": false
+        }
+      ]
+    }
+  },
+  "candidates": {
+    "M2G1": [
+      {
+        "name": "ANTOINE Victor",
+        "email": "victor.antoine2.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "OCD 34",
+        "ma": "COUDRAIN Gratien",
+        "maEmail": "bet@ocd34.fr",
+        "city": "MONTPELLIER"
+      },
+      {
+        "name": "CASSE Dorian",
+        "email": "dorian.casse2.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "CHEVRIER INGENIERIE",
+        "ma": "FUCHE Laurent",
+        "maEmail": "laurent.fuche@betchevrier.fr",
+        "city": "MOULINS"
+      },
+      {
+        "name": "CHAUVEL Gaelle",
+        "email": "gaelle.chauvel2.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "BETSO SAS",
+        "ma": "SCHELLER Raphaele",
+        "maEmail": "r.scheller@betso.fr",
+        "city": "MONTPELLIER"
+      },
+      {
+        "name": "CHAZAL Lucas",
+        "email": "lucas.chazal.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "NGE GENIE CIVIL",
+        "ma": "VIRAT Mickael",
+        "maEmail": "mvirat@nge-gc.fr",
+        "city": "PONT DU CHATEAU"
+      },
+      {
+        "name": "DANVE Enzo",
+        "email": "enzo.danve.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "SNCF RESEAU",
+        "ma": "VAUTRIN Alexandre",
+        "maEmail": "alexandre.vautrin@reseau-sncf.fr",
+        "city": "MARSEILLE"
+      },
+      {
+        "name": "DUFOUR Enzo",
+        "email": "enzo.dufour.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "COLAS FRANCE TSE",
+        "ma": "FRUCTUOSO Jerôme / MATHILDE Eric",
+        "maEmail": "jerome.fructuoso@colas.com;",
+        "city": "THUIR"
+      },
+      {
+        "name": "EL MOURABIT Adam",
+        "email": "adam.el-mourabit.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "MYAMO",
+        "ma": "GILLES Frédéric",
+        "maEmail": "j.talon@myamo.com",
+        "city": "ARLES"
+      },
+      {
+        "name": "FERREIRA Matéo",
+        "email": "mateo.ferreira.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "AUTOROUTES DU SUD DE LA FRANCE",
+        "ma": "WOLFF Mylène",
+        "maEmail": "mylene.wolff@vinci-autoroutes.com",
+        "city": "VEDENE"
+      },
+      {
+        "name": "GONSETH Gaspard",
+        "email": "gaspard.gonseth.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "COMPAGNIE NATIONALE DU RHÔNE",
+        "ma": "DESJARDINS Thibault",
+        "maEmail": "t.desjardins@cnr.tm.fr",
+        "city": "LYON"
+      },
+      {
+        "name": "HAINAUT Nathan",
+        "email": "nathan.hainaut.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "PARLYM ENGINEERING",
+        "ma": "SAMAHNA Hicham",
+        "maEmail": "hicham.samahna@parlym.com",
+        "city": "MARSEILLE"
+      },
+      {
+        "name": "HEREDIA Dorian",
+        "email": "dorian.heredia.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "IN THE AIR",
+        "ma": "CHOURA Medhi",
+        "maEmail": "m.choura@intheair.co",
+        "city": "MARSEILLE"
+      },
+      {
+        "name": "JIGALOV Yaroslav",
+        "email": "yaroslav.jigalov.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "INESAAE/INSTITUT AGRO MONTPELLIER",
+        "ma": "PELLECUER Magali",
+        "maEmail": "magali.pellecuer@supagro.fr",
+        "city": "MONTPELLIER CEDEX 2"
+      },
+      {
+        "name": "LE VÉO Noé",
+        "email": "noe.le-veo.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "GEOSCAN",
+        "ma": "LACOSTE Erik",
+        "maEmail": "erik.lacoste@siragusa.fr",
+        "city": "MONTPELLIER"
+      },
+      {
+        "name": "MOYSAN Kévin",
+        "email": "kevin.moysan.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "BUREAU D'ÉTUDES TECHNIQUES HAY",
+        "ma": "GAUTIER Antoine",
+        "maEmail": "a.gautier@bet-hay.com; m.tempereau@bet-hay.com;",
+        "city": "CESSON SEVIGNE"
+      },
+      {
+        "name": "OLMOS Solène",
+        "email": "solene.olmos.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "IMOW!",
+        "ma": "THIBAULT Arnaud",
+        "maEmail": "arnaud.thibault@imow-concept.com",
+        "city": "MARSEILLE"
+      },
+      {
+        "name": "PICHAUD Arthur",
+        "email": "arthur.pichaud.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "SNCF RESEAU INFRAPÔLE LGV SUD EST EUROPÉEN",
+        "ma": "VILLE Florian",
+        "maEmail": "florian.ville@reseau.sncf.fr",
+        "city": "LYON"
+      },
+      {
+        "name": "PINGLOT Lucas",
+        "email": "lucas.pinglot.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "AGAURA",
+        "ma": "RADIGUE Jean-Louis / GUILLON Thibaut",
+        "maEmail": "contact@agaura.net",
+        "city": "BOURGES"
+      },
+      {
+        "name": "POLESEL Sébastien",
+        "email": "sebastien.polesel.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "COLOMBERO Laurent",
+        "company": "BIMER SERVICES",
+        "ma": "DEWAVRIN Claire / DESGRIPPES Sandrine",
+        "maEmail": "claire.dewavrin@gmail.com;compta@bimer.fr",
+        "city": "MONTPELLIER"
+      },
+      {
+        "name": "SPAGNOLETTI Jules",
+        "email": "jules.spagnoletti.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "HERVE THERMIQUE",
+        "ma": "BERTHOME Victorien",
+        "maEmail": "victorien.berthome@herve-thermique.com",
+        "city": "ST AUNES"
+      },
+      {
+        "name": "TOURNAYRE Hippolyte",
+        "email": "hippolyte.tournayre.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "LES CHARPENTIERS D'AUJOURD'HUI",
+        "ma": "DOREY Vivien",
+        "maEmail": "rh@germaintoiture.fr",
+        "city": "CHAZAY D AZERGUES"
+      }
+    ],
+    "M2G2": [
+      {
+        "name": "BAHETTA Yasmine",
+        "email": "yasmine.bahetta.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "COLOMBERO Laurent",
+        "company": "BIMER SERVICES",
+        "ma": "DEWAVRIN Claire / DESGRIPPES Sandrine",
+        "maEmail": "claire.dewavrin@gmail.com;compta@bimer.fr",
+        "city": "MONTPELLIER"
+      },
+      {
+        "name": "BERNARDO Prune",
+        "email": "prune.bernardo.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "INGEBA",
+        "ma": "BOUAZA Mickael",
+        "maEmail": "mikael.bouaza@ingeba.fr",
+        "city": "AUCH"
+      },
+      {
+        "name": "BREUIL Flavien",
+        "email": "flavien.breuil.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "PER Ingéniérie",
+        "ma": "FEMINIA Catriel / DECAMPS Davy",
+        "maEmail": "c.feminia@peringenierie.fr;d.decamps@peringenierie.fr",
+        "city": "MONTPELLIER CEDEX 2"
+      },
+      {
+        "name": "CALPAS Tyler",
+        "email": "tyler.calpas.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "SFP jusqu'au 13/01/2026 (piste pour SETTING début le 05/01)",
+        "ma": "",
+        "maEmail": "",
+        "city": ""
+      },
+      {
+        "name": "CEKOV Aleksandar",
+        "email": "aleksandar.cekov.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "NGE GENIE CIVIL",
+        "ma": "RENAULT Nathalie / PHILIPPE Joris",
+        "maEmail": "mchevereau@nge.fr;jphilippe@guintoli.fr",
+        "city": "ST ETIENNE DU GRES"
+      },
+      {
+        "name": "DIORO Jean",
+        "email": "jean.dioro.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "SASK INGENIERIE",
+        "ma": "KNAFEL Sébastien",
+        "maEmail": "sebastien.knafel@gmail.com",
+        "city": "MONTPELLIER"
+      },
+      {
+        "name": "HAMDANI Ahlam",
+        "email": "ahlam.hamdani.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "SMB SOCIETE MERIDIONALE DU BATIMENT",
+        "ma": "DURAND Thibault",
+        "maEmail": "t.durand@smbsa.fr",
+        "city": "MONTPELLIER"
+      },
+      {
+        "name": "HENRY Camille",
+        "email": "camille.henry3.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "AGATE GÉOMÈTRE",
+        "ma": "FOUGERAY Pierre-marie",
+        "maEmail": "pierre-marie.fougeray@agate-ge.fr",
+        "city": "VILLEURBANNE"
+      },
+      {
+        "name": "HNAIJE Eurydice",
+        "email": "eurydice.hnaije.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "GEOFIT",
+        "ma": "GOMEZ Cyrille",
+        "maEmail": "c.gomez@geofit.fr",
+        "city": "NIMES"
+      },
+      {
+        "name": "JUBOORI Marwan",
+        "email": "marwan.juboori.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "CHABANNE",
+        "ma": "PARENA Alexandre",
+        "maEmail": "aparena@agence-chabanne.fr",
+        "city": "LYON"
+      },
+      {
+        "name": "JUMEAU Eliot",
+        "email": "eliot.jumeau.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "HTHERM",
+        "ma": "SAVALLI Mickael",
+        "maEmail": "contact@htherm.fr",
+        "city": "L ISLE SUR LA SORGUE"
+      },
+      {
+        "name": "LEMAITRE Florent",
+        "email": "florent.lemaitre2.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "AXIMA CONCEPT",
+        "ma": "DURAND Perine",
+        "maEmail": "cvc-montpellier.axima@equans.com",
+        "city": "LATTES"
+      },
+      {
+        "name": "LEONARD Aurélien",
+        "email": "aurelien.leonard2.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "MYAMO",
+        "ma": "GILLES Frédéric",
+        "maEmail": "j.talon@myamo.com",
+        "city": "ARLES"
+      },
+      {
+        "name": "LOUDIFA Bilal",
+        "email": "bilal.loudifa.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "SFERIS",
+        "ma": "SYAF Yassine",
+        "maEmail": "yassine.syaf@sferis.fr",
+        "city": "PARIS"
+      },
+      {
+        "name": "NOUGAREDE Elie",
+        "email": "elie.nougarede.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "SFP jusqu'au 13/01/2026 (en cours voir Laurent)",
+        "ma": "",
+        "maEmail": "",
+        "city": ""
+      },
+      {
+        "name": "NOVELLAS Clément",
+        "email": "clement.novellas.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "SOLARHONA",
+        "ma": "BEURTON Julien",
+        "maEmail": "j.beurton@solarhona.fr",
+        "city": "LYON"
+      },
+      {
+        "name": "PERIC Pol",
+        "email": "pol.peric.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "DPMO",
+        "ma": "PERIC Dragan",
+        "maEmail": "d.peric@dpmo.fr",
+        "city": "MONTPELLIER"
+      },
+      {
+        "name": "PIQUE Antonin",
+        "email": "antonin.pique.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "IN THE AIR (rupture en cours a confirmer la date)",
+        "ma": "CHOURA Medhi",
+        "maEmail": "m.choura@intheair.co",
+        "city": "MARSEILLE"
+      },
+      {
+        "name": "PIVET Leo",
+        "email": "leo.pivet.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "ENTREPRISE GENERAL TOURNIER",
+        "ma": "BUIS Julien / FUET Alexandre",
+        "maEmail": "julien.buis@egtournier.fr;alexandre.fuet@egtournier.fr",
+        "city": "ROMANECHE THORINS"
+      },
+      {
+        "name": "ULIANA Thibaut",
+        "email": "thibaut.uliana.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "KDS ECO",
+        "ma": "NOURI Malik",
+        "maEmail": "eco@kdsgroupe.fr",
+        "city": "MONTELIMAR"
+      },
+      {
+        "name": "VERGNES Matheo",
+        "email": "matheo.vergnes.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "IN THE AIR",
+        "ma": "ORTI Louis-Marie",
+        "maEmail": "lm.orti@intheair.co",
+        "city": "MARSEILLE"
+      },
+      {
+        "name": "VIEIRA GONCALVES Matteo",
+        "email": "matteo.vieira-goncalves.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "AGM CONSTRUCTION",
+        "ma": "ANTOINAT Norman",
+        "maEmail": "n.antoinat@agm-groupe.fr",
+        "city": "ST DENIS LES BOURG"
+      },
+      {
+        "name": "VIVET Julien",
+        "email": "julien.vivet.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "BETSO",
+        "ma": "SCHELLER Raphaele",
+        "maEmail": "r.scheller@betso.fr",
+        "city": "MONTPELLIER"
+      },
+      {
+        "name": "XIONG Théo",
+        "email": "theo.xiong.auditeur@lecnam.net",
+        "phone": "",
+        "tutor": "",
+        "company": "M+ MATÉRIAUX",
+        "ma": "ETIENNE Isabelle",
+        "maEmail": "ietienne@mplus-materiaux.com",
+        "city": "MONTPELLIER"
+      }
+    ]
+  },
+  "ueMeta": {},
+  "rates": {
+    "Master": 300,
+    "Licence": 250,
+    "Titre pro": 200,
+    "Certificat": 300
+  },
+  "mutPlan": {},
+  "tableWidths": {},
+  "detailWidths": null
+}
